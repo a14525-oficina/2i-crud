@@ -28,7 +28,7 @@ Para iniciar a aplicação, utilize o seguinte comando:
 
 npm start
 
-Após a execução, a aplicação estará disponível no endereço http://localhost:3000 (ou na porta configurada).
+Após a execução, a aplicação estará disponível no endereço [http://localhost:3000](https://github.com/a14525-oficina/2i-crud)
 
 🤝 Contribuição
 
